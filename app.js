@@ -5,7 +5,7 @@ const nomsTableurs = [
     "LXT",
     "OC11",
     "TCOC",
-    "Evacu"
+    "Emvacu"
 ];
 
 function createTableur(id) {
